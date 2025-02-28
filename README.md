@@ -7,7 +7,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará uma coleção dos meus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVictor2002&layout=compact&theme=default&hide_progress=true" alt="Top Languages" width="48%" />
 </div>
 
-
 ## Sobre Mim
 
 Olá! Eu sou o Victor, um desenvolvedor apaixonado por tecnologia e com um interesse crescente por áreas como programação, design de software, e inovação. Estou sempre explorando novas ferramentas e buscando melhorar meus conhecimentos em diversas áreas, como Java, Spring, React Native, e muito mais.
@@ -25,6 +24,11 @@ Atualmente, estou trabalhando em projetos diversos, incluindo:
 - **Frameworks**: Spring Boot, React, React Native, Tailwind CSS
 - **Ferramentas**: Docker, WSL, PostgreSQL, SQLite
 - **Outros**: Git, GitHub, CI/CD
+
+![Java](https://img.shields.io/badge/-Java-%23F8981D?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 
 ## Contato
 
